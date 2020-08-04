@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋😄
 
 # Lucas Henrique
 
@@ -6,7 +6,7 @@ Meu nome é Lucas, sou de Campinas-SP(🇧🇷), sou estudante e desenvolvedor a
 Sou apaixonado pelas tecnologias e pelo o que elas são capazes de fazer em nossas vidas, e uma pessoa muito autodidata, estou sempre consumindo conteudos na internet, livros e
 procurando sempre aprender algo novo ou aprimorar meus conhecimentos e minhas habilidades.
 
-No meu tempo livre gosto de ficar em casa, estudando(📖), assistindo filme ou séries(🎞️), jogando game(🎮), ou então sair com a familia.
+No meu tempo livre gosto de ficar em casa, estudando(📚), assistindo filme ou séries(🎞️), jogando game(🎮), tocar(🎻) ou então sair com a familia.
 
 Me encontre em:
 
