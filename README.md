@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+# Lucas Henrique
+
+Meu nome é Lucas, e sou de Campinas-SP(🇧🇷), sou estudante e desenvolvedor atualmente trabalho como estagiario especificamente na área de back-end.
+Sou apaixonado pelas tecnologias e pelo o que elas são capazes de fazer em nossas vidas, e uma pessoa muito autodidata, estou sempre consumindo conteudos na internet, livros e
+procurando sempre aprender algo novo ou aprimorar meus conhecimentos e minhas habilidades.
+
+No meu tempo livre gosto de ficar em casa, estudando(📖), assistindo filme ou séries(🎞️), jogando game(🎮), ou então sair com a familia.
+
+Me encontre em:
+
 [![WebSite Badge](https://img.shields.io/badge/Website-lucasablanco.com-black)](https://lucasablanco.tk)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-blanco/)](https://www.linkedin.com/in/lucas-henrique-blanco/)
 
