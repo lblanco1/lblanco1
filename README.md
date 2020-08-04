@@ -2,7 +2,7 @@
 
 # Lucas Henrique
 
-Meu nome é Lucas, e sou de Campinas-SP(🇧🇷), sou estudante e desenvolvedor atualmente trabalho como estagiario especificamente na área de back-end.
+Meu nome é Lucas, sou de Campinas-SP(🇧🇷), sou estudante e desenvolvedor atualmente trabalho como estagiario especificamente na área de back-end.
 Sou apaixonado pelas tecnologias e pelo o que elas são capazes de fazer em nossas vidas, e uma pessoa muito autodidata, estou sempre consumindo conteudos na internet, livros e
 procurando sempre aprender algo novo ou aprimorar meus conhecimentos e minhas habilidades.
 
