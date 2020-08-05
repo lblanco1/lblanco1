@@ -13,7 +13,7 @@ Me encontre em:
 [![WebSite Badge](https://img.shields.io/badge/Website-lucasablanco.com-black)](https://lucasablanco.tk)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-blanco/)](https://www.linkedin.com/in/lucas-henrique-blanco/)
 
-<a href="https://www.instagram.com/lucas_ablanco/">
+<!--<a href="https://www.instagram.com/lucas_ablanco/">
   <img align="left" alt="Rafael Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.gg/mDxpEh">
