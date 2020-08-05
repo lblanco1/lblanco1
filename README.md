@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/lucas_ablanco/">
   <img align="left" alt="Rafael Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://discord.gg/Lucao#5508">
+<a href="https://discord.gg/mDxpEh">
   <img align="left" alt="uMago Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
