@@ -1,5 +1,12 @@
 ### Hi there 👋😄
 
+<a href="https://www.instagram.com/lucas_ablanco/">
+  <img align="left" alt="Rafael Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discord.gg/qXVfgpK">
+  <img align="left" alt="Lucao Discord" width="22px" src="https://discord.com/channels/@me/740401703001522207"/>
+</a>
+
 # Lucas Henrique
 
 Meu nome é Lucas, sou de Campinas-SP(🇧🇷), sou estudante e desenvolvedor atualmente trabalho como estagiario especificamente na área de back-end.
