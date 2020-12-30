@@ -2,8 +2,11 @@
 
 # Lucas Henrique
 
-Meu nome é Lucas, sou de Campinas-SP(🇧🇷), sou estudante e desenvolvedor trabalhei como estagiario especificamente na área de back-end.
+Meu nome é Lucas, sou de Campinas-SP(🇧🇷), sou estudante e desenvolvedor trabalhei como estagiario especificamente na área de front-end
 Sou apaixonado pelas tecnologias e pelo o que elas são capazes de fazer em nossas vidas, sendo uma pessoa muito autodidata, estou sempre consumindo conteudos na internet, livros e procurando sempre aprender algo novo para aprimorar meus conhecimentos e minhas habilidades.
+
+Já trabalhei com Java, Javascript, SQL, HTML e CSS, porém hoje atualmente estou me focado e me especializando em frontend e com as pricipais camadas de visualização,
+tenho como foco em React, VueJs e Angular
 
 No meu tempo livre gosto de ficar em casa, estudando(📚), assistindo filme ou séries(🎞️), jogando game(🎮), tocar(🎻) ou então sair com a familia.
 
