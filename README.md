@@ -12,7 +12,7 @@ No meu tempo livre gosto de ficar em casa, estudando(📚), assistindo filme ou 
 
 Me encontre em:
 
-[![WebSite Badge](https://img.shields.io/badge/Website-lucasablanco.com-black)](https://lucasablanco.tk)
+[![WebSite Badge](https://img.shields.io/badge/Website-lucasblanco.com-black)](https://lucasblanco.gq)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-blanco/)](https://www.linkedin.com/in/lucas-henrique-blanco/)
 
 <!--<a href="https://www.instagram.com/lucas_ablanco/">
